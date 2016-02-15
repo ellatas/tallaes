@@ -1,3 +1,3 @@
 # tallaes
 
-emtas testi as 20160216 on täs
+emtas testi 20160216
